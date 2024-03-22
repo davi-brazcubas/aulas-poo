@@ -1,0 +1,20 @@
+import java.util.Scanner;
+
+/**
+ * C02LacoRepeticaoWhile
+ * Laços de repetição são usados para executar um bloco de código várias vezes
+ */
+public class C02LacoRepeticaoWhile {
+
+  public static void main(String[] args) {
+    // geralmente utilizado quando o número de iterações não é conhecido a priori
+    Scanner scanner = new Scanner(System.in);
+
+    int numeroPar = scanner.nextInt();
+    while (numeroPar % 2 != 0) {
+      numeroPar = scanner.nextInt();
+    }
+
+    scanner.close();
+  }
+}
