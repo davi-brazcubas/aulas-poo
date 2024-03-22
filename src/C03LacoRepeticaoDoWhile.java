@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * C02LacoRepeticaoWhile
+ * C03LacoRepeticaoDoWhile
  * Laços de repetição são usados para executar um bloco de código várias vezes
  */
 public class C03LacoRepeticaoDoWhile {
