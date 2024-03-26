@@ -48,3 +48,14 @@
 - Consultar Estoque
 - Registrar Venda
 - Sair
+
+## [Exercício de Classes](https://github.com/davi-brazcubas/aulas-poo/tree/09_exercicio_classes/src)
+- Pessoa
+- Calculadora
+- Musica
+- Carro
+- ContaBancaria
+- IdadePessoa
+- Produto
+- Aluno
+- Livro
