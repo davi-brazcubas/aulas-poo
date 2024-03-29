@@ -59,3 +59,13 @@
 - Produto
 - Aluno
 - Livro
+
+## [Exercício de Herança - Zoo](https://github.com/davi-brazcubas/aulas-poo/tree/10_exercicio_heranca_zoo/src)
+- Animal
+- Cachorro
+- Gato
+
+## [Exercício de Herança - Banco](https://github.com/davi-brazcubas/aulas-poo/tree/11_exercicio_heranca_banco/src)
+- ContaBancaria
+- ContaCorrente
+- ContaPoupanca
